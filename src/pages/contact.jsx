@@ -25,7 +25,7 @@ const contact = () => {
             <div className="card p-5">
                 <h2 className='footer-title mb-3'><b>Contact Us</b></h2>
                   <p className='mb-2'><b>Address:</b>  Bakhtiyarpur College Of Engineering, H1 Hostel</p>
-                  <p className='mb-2'><b>Phone:</b>  <a className='footer-tel' href="tel:+1234567890">Call us at 7857818032</a></p>
+                  <p className='mb-2'><b>Phone:</b>  <a className='footer-tel' href="tel:+917857818032">Call us at 7857818032</a></p>
                   <p className='mb-4'><b>Hours:</b>  From 10 a.m To 8 p.m</p>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus quos iusto rerum architecto a eaque consequuntur impedit! Harum earum iste, suscipit soluta, culpa necessitatibus quia sit nulla doloremque officia cum.</p>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit hic veniam unde numquam in ullam laudantium odit explicabo itaque! Voluptate similique, accusantium consequatur provident soluta quaerat maxime adipisci vero sed.</p>
